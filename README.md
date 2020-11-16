@@ -31,12 +31,13 @@ The blog page design is similar to the home page design in which a card system i
 
 4 The Conact page
 
-The contact page includes simple contact infrmation such as email, address and mobile number. To the right of this is a message form that ordinarily would allow the user to write a message and send direct to my emal address.
+The contact page includes simple contact information such as email, address and mobile number. To the right of this is a message form that ordinarily would allow the user to write a message and send direct to my emal address.
 
 
 
 Sitemap
 
+Refer folder in repository
 
 
 Screenshots
